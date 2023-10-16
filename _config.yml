@@ -20,7 +20,7 @@
 
 title: Matt Luedke
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
-url: "https://mattluedke.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mluedke2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
