@@ -837,3 +837,26 @@ a:hover {
 .site-footer-credits {
   color: #819198
 }
+
+.book-description {
+  align-items: center;
+  display: flex;
+}
+
+@media screen and (max-width: 40em) {
+  .book-description {
+    flex-direction: column;
+  }
+}
+
+.book-description img {
+  flex: 1;
+  margin: 10px;
+  max-height: 300px;
+}
+
+.book-description em {
+  flex: 3;
+  margin: 10px;
+}
+
